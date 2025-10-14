@@ -607,8 +607,8 @@ h6 {
     margin-bottom: 2px;
     /* ADDED: Change to orange background like in your image */
 
-    background-color: white;
-    color: #29448c;
+    background-color: #29448c;
+    color: #ffffff;
     font-family: 'Montserrat';
   }
 
@@ -1428,7 +1428,7 @@ section,
 
 .hero .hero-content .hero-btns .cta-btn:hover {
   background: #ffffff;
-  color: #95c0e9;
+  color: #29448c;
 }
 
 .hero .hero-content .hero-btns .cta-btn .small-text {
@@ -1471,7 +1471,7 @@ form button.btn {
 }
 
 form button.btn:hover {
-  background-color: #95c0e9;
+  background-color: #80c0ec;
   color: #ffffff;
 }
 
@@ -1567,7 +1567,7 @@ form button.btn:hover {
   width: 100%;
   aspect-ratio: 1 / 1;
   min-width: 100px;
-  border: 3px dashed #1484C2;
+  border: 3px dashed #29448c;
 }
 
 @media screen and (max-width: 767px) {
@@ -1575,7 +1575,7 @@ form button.btn:hover {
     width: 100%;
     aspect-ratio: auto;
     min-width: 100px;
-    border: 1px dashed #1484C2;
+    border: 1px dashed #29448c;
   }
 }
 
@@ -1602,14 +1602,14 @@ form button.btn:hover {
 #hours,
 #minutes,
 #seconds {
-  color: #1484C2 !important;
+  color: #29448c !important;
   font-size: 38px;
   animation: pulse 1.5s infinite ease-in-out;
 }
 
 .countdown-timer a {
-  background-color: #1484C2 !important;
-  border: 1px solid #1484C2 !important;
+  background-color: #29448c !important;
+  border: 1px solid #29448c !important;
 }
 
 /*--------------------------------------------------------------
@@ -1701,7 +1701,7 @@ form button.btn:hover {
 }
 
 .why-choose-us .btn:hover{
-  background-color: #95c0e9;
+  background-color: #80c0ec;
   box-shadow: 0 6px 14px rgba(41,68,140,.18);
 }
 
@@ -2079,7 +2079,7 @@ form button.btn:hover {
 }
 
 .advantages .btn:hover{
-  background-color: #95c0e9;
+  background-color: #80c0ec;
   box-shadow: 0 6px 14px rgba(41,68,140,.18);
 }
 
@@ -2213,7 +2213,7 @@ form button.btn:hover {
   border-radius: 16px;
   background:
     url("#") no-repeat center center/cover,
-    linear-gradient(135deg, #29448c 0%, #002f75 100%);
+    linear-gradient(135deg, #80c0ec 0%, #002f75 100%);
   z-index: 0;
 }
 
@@ -2451,7 +2451,7 @@ form button.btn:hover {
 }
 
 .contact-section form button.btn:hover{
-  background-color: #95c0e9;
+  background-color: #80c0ec;
   box-shadow: 0 6px 14px rgba(41,68,140,.18);
 }
 
@@ -2900,7 +2900,7 @@ form button.btn:hover {
 
 .mail-error .hero-btns .cta-btn:hover {
   background: #ffffff !important;
-  color: #95c0e9;
+  color: #29448c;
 }
 
 .mail-error .hero-btns .cta-btn .small-text {
