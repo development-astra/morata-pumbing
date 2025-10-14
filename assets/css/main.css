@@ -668,7 +668,7 @@ h6 {
     font-size: 13px;
     /* 🔴 INCREASE THIS for 360px devices "15% OFF" text */
     padding: 3px 6px;
-    background-color: white;
+    background-color: #29448c;
   }
 
   .phone-number {
@@ -752,7 +752,7 @@ h6 {
 .scrolled .header {
   /* background: linear-gradient(135deg, #040E18 0%, #093C70 100%); */
 
-  background-color: white;
+  background-color: #29448c;
 }
 
 .scrolled .header .container-fluid {
